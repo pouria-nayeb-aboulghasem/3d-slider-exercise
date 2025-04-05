@@ -1,6 +1,6 @@
 # Introduction
 
-3D diagonal menu by html and css.
+3D diagonal menu by html, css and javascript.
 
 ## Features
 
